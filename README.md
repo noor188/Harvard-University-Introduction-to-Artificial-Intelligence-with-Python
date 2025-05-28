@@ -6,4 +6,6 @@ Learned to use machine learning in Python
 
 1. Search <br>
    1.1 <a href="https://github.com/noor188/Degrees">Degree</a>: A program that determines how many “degrees of separation” apart two actors are. <br>
-   &nbsp;&nbsp; &nbsp;1.1.1 Technology: Python and data structures and algorithems (Queue, Breath first search)
+   &nbsp;&nbsp; &nbsp;1.1.1 Technology: Python and data structures and algorithems (Queue, Breath first search)<br>
+   1.2 <a href="https://github.com/noor188/Tic-Tac-Toe">Tic-Tac-Toe</a>: A game implemented using AI play Tic-Tac-Toe optimally <br>
+    &nbsp;&nbsp; &nbsp;1.2.1 Technology: Python and data structures and algorithems (Minimax)
