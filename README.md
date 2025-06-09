@@ -1,4 +1,4 @@
-# Introduction-to-Artificial-Intelligence-with-Python
+# Introduction to Artificial Intelligence with Python
 In this repository I will post all my projects as part of <a href="https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python">CS50's Introduction to Artificial Intelligence with Python course</a> - Harvard University <br>
 Learned to use machine learning in Python
 
